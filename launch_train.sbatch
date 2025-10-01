@@ -12,5 +12,5 @@
 source /gpfs/home/shaana01/miniconda3/etc/profile.d/conda.sh
 conda activate cenv3
 
-python vanilla_gan.py
+python c2n_mnist.py
 # python sample.py
